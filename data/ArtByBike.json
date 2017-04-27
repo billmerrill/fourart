@@ -336,6 +336,20 @@
           47.63471360943092
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dragonfly Pavillion",
+        "date": "2017-04-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36777722835541,
+          47.56661995005548
+        ]
+      }
     }
   ]
 }
