@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-04-01",
+        "name": "Waterworks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31949746608733,
+          47.61810439953011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-04-02",
+        "name": "Imbrication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29847967624663,
+          47.72007508095657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-04-03",
+        "name": "Hot Cha Cha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40077644586563,
+          47.64008679154853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-04-04",
+        "name": "Black Sun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3151844739914,
+          47.62999964656912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equality",
+        "date": "2017-04-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31417059898376,
+          47.59411404979336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hat and Boots",
+        "date": "2017-04-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32180953025818,
+          47.545133532546544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home Finial",
+        "date": "2017-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30703055858612,
+          47.62166964211776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird News",
+        "date": "2017-04-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49886751174928,
+          47.43712296864309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chief Seattle Fountain",
+        "date": "2017-04-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34745949506758,
+          47.61832859030433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Park Vortex",
+        "date": "2017-04-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32684940099716,
+          47.522203768135284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Bull Skatespace",
+        "date": "2017-04-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30950623750685,
+          47.5715875429254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Sculpture",
+        "date": "2017-04-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32151985168456,
+          47.61553698503071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Philosophical Promenade",
+        "date": "2017-04-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29557752609252,
+          47.590362415570866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quintet in D",
+        "date": "2017-04-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36274540424347,
+          47.63384604083273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hammering Man",
+        "date": "2017-04-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33816564083101,
+          47.606937036286176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Young Abe Lincoln",
+        "date": "2017-04-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33884692192076,
+          47.66013058885157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tree Bench",
+        "date": "2017-04-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30706542730331,
+          47.601426611828856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Everything That Rises",
+        "date": "2017-04-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31093049049379,
+          47.65333755560176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flo Ware Park",
+        "date": "2017-04-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29610323905946,
+          47.59934128833909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Sound Garden",
+        "date": "2017-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24965810775757,
+          47.68542686051794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FlipBook",
+        "date": "2017-04-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34675407409668,
+          47.722668032672644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cloud Veil",
+        "date": "2017-04-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31648266315459,
+          47.60725531021876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sentinels",
+        "date": "2017-04-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32802152633667,
+          47.60095457276624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Untitled",
+        "date": "2017-04-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31229305267333,
+          47.63471360943092
+        ]
+      }
+    }
+  ]
+}
