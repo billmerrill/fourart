@@ -6,7 +6,8 @@
       "properties": {
         "date": "2017-04-01",
         "name": "Waterworks",
-        "instagram": "https://www.instagram.com/p/s_CediLxp9/"
+        "instagram": "https://www.instagram.com/p/s_CediLxp9/",
+        "ridewithgps": "https://ridewithgps.com/trips/13688821"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "date": "2017-04-02",
         "name": "Imbrication",
-        "instagram": "https://www.instagram.com/p/BSaDKRWAxKL/"
+        "instagram": "https://www.instagram.com/p/BSaDKRWAxKL/",
+        "ridewithgps": "https://ridewithgps.com/trips/13722670"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "date": "2017-04-03",
         "name": "Hot Cha Cha",
-        "instagram": "https://www.instagram.com/p/BScicXrAmym/"
+        "instagram": "https://www.instagram.com/p/BScicXrAmym/",
+        "ridewithgps": "https://ridewithgps.com/trips/13739739"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "date": "2017-04-04",
         "name": "Black Sun",
-        "instagram": "https://www.instagram.com/p/BSd_wdeAVVj/"
+        "instagram": "https://www.instagram.com/p/BSd_wdeAVVj/",
+        "ridewithgps": "https://ridewithgps.com/trips/13747450"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "name": "Equality",
         "date": "2017-04-05",
-        "instagram": "https://www.instagram.com/p/BShuYs6gENE/"
+        "instagram": "https://www.instagram.com/p/BShuYs6gENE/",
+        "ridewithgps": "https://ridewithgps.com/trips/13778687"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "name": "Hat and Boots",
         "date": "2017-04-06",
-        "instagram": "https://www.instagram.com/p/BSkG5qlgE6b/"
+        "instagram": "https://www.instagram.com/p/BSkG5qlgE6b/",
+        "ridewithgps": "https://ridewithgps.com/trips/13797443"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "name": "Home Finial",
         "date": "2017-04-07",
-        "instagram": "https://www.instagram.com/p/BSmuUzYgVC0/"
+        "instagram": "https://www.instagram.com/p/BSmuUzYgVC0/",
+        "ridewithgps": "https://ridewithgps.com/trips/13811036"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "name": "Leavenworth Shepherd",
         "date": "2017-04-08",
-        "instagram": "https://www.instagram.com/p/BSpeDfPggw4/"
+        "instagram": "https://www.instagram.com/p/BSpeDfPggw4/",
+        "ridewithgps": "https://ridewithgps.com/trips/13833194"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "name": "Bird News",
         "date": "2017-04-09",
-        "instagram": "https://www.instagram.com/p/BStcaoGAh3x/"
+        "instagram": "https://www.instagram.com/p/BStcaoGAh3x/",
+        "ridewithgps": "https://ridewithgps.com/trips/13859071"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +150,8 @@
       "properties": {
         "name": "Chief Seattle Fountain",
         "date": "2017-04-10",
-        "instagram": "https://www.instagram.com/p/BStkC2-gw6H/"
+        "instagram": "https://www.instagram.com/p/BStkC2-gw6H/",
+        "ridewithgps": "https://ridewithgps.com/trips/13867019"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +166,8 @@
       "properties": {
         "name": "South Park Vortex",
         "date": "2017-04-11",
-        "instagram": "https://www.instagram.com/p/BSwv5yBgSp6/"
+        "instagram": "https://www.instagram.com/p/BSwv5yBgSp6/",
+        "ridewithgps": "https://ridewithgps.com/trips/13891414"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +182,8 @@
       "properties": {
         "name": "Red Bull Skatespace",
         "date": "2017-04-12",
-        "instagram": "https://www.instagram.com/p/BSzStkhAxMW/"
+        "instagram": "https://www.instagram.com/p/BSzStkhAxMW/",
+        "ridewithgps": "https://ridewithgps.com/trips/13908846"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +198,8 @@
       "properties": {
         "name": "Park Sculpture",
         "date": "2017-04-13",
-        "instagram": "https://www.instagram.com/p/BS34mJdg9dE/"
+        "instagram": "https://www.instagram.com/p/BS34mJdg9dE/",
+        "ridewithgps": "https://ridewithgps.com/trips/13930822"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +214,8 @@
       "properties": {
         "name": "The Philosophical Promenade",
         "date": "2017-04-14",
-        "instagram": "https://www.instagram.com/p/BS40qvoAsHO/"
+        "instagram": "https://www.instagram.com/p/BS40qvoAsHO/",
+        "ridewithgps": "https://ridewithgps.com/trips/13949745"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +230,8 @@
       "properties": {
         "name": "Quintet in D",
         "date": "2017-04-15",
-        "instagram": "https://www.instagram.com/p/BS7yCehgKT3/"
+        "instagram": "https://www.instagram.com/p/BS7yCehgKT3/",
+        "ridewithgps": "https://ridewithgps.com/trips/13975238"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +246,9 @@
       "properties": {
         "name": "Hammering Man",
         "date": "2017-04-16",
-        "instagram": "https://www.instagram.com/p/BS9xeMtgIUo/"
+        "instagram": "https://www.instagram.com/p/BS9xeMtgIUo/",
+        "ridewithgps": "https://ridewithgps.com/trips/13995550"
+
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +263,8 @@
       "properties": {
         "name": "Young Abe Lincoln",
         "date": "2017-04-17",
-        "instagram": "https://www.instagram.com/p/BTAnS3kAQwH/"
+        "instagram": "https://www.instagram.com/p/BTAnS3kAQwH/",
+        "ridewithgps": "https://ridewithgps.com/trips/14017358"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +279,8 @@
       "properties": {
         "name": "Tree Bench",
         "date": "2017-04-18",
-        "instagram": "https://www.instagram.com/p/BTCO4IWAgPd/"
+        "instagram": "https://www.instagram.com/p/BTCO4IWAgPd/",
+        "ridewithgps": "https://ridewithgps.com/trips/14026798"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +295,8 @@
       "properties": {
         "name": "Everything That Rises",
         "date": "2017-04-19",
-        "instagram": "https://www.instagram.com/p/BTF7FvBgPdr/"
+        "instagram": "https://www.instagram.com/p/BTF7FvBgPdr/",
+        "ridewithgps": "https://ridewithgps.com/trips/14057481"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +311,8 @@
       "properties": {
         "name": "Flo Ware Park",
         "date": "2017-04-20",
-        "instagram": "https://www.instagram.com/p/BTIESmwgGU0/"
+        "instagram": "https://www.instagram.com/p/BTIESmwgGU0/",
+        "ridewithgps": "https://ridewithgps.com/trips/14071085"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +327,8 @@
       "properties": {
         "name": "A Sound Garden",
         "date": "2017-04-21",
-        "instagram": "https://www.instagram.com/p/BTKiFGPg7iW/"
+        "instagram": "https://www.instagram.com/p/BTKiFGPg7iW/",
+        "ridewithgps": "https://ridewithgps.com/trips/14090138"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +343,8 @@
       "properties": {
         "name": "FlipBook",
         "date": "2017-04-22",
-        "instagram": "https://www.instagram.com/p/BTNdSlVg-Yo/"
+        "instagram": "https://www.instagram.com/p/BTNdSlVg-Yo/",
+        "ridewithgps": "https://ridewithgps.com/trips/14113691"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +359,8 @@
       "properties": {
         "name": "Cloud Veil",
         "date": "2017-04-23",
-        "instagram": "https://www.instagram.com/p/BTQTMOxA_UD/"
+        "instagram": "https://www.instagram.com/p/BTQTMOxA_UD/",
+        "ridewithgps": "https://ridewithgps.com/trips/14143304"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +375,8 @@
       "properties": {
         "name": "Sentinels",
         "date": "2017-04-24",
-        "instagram": "https://www.instagram.com/p/BTSUTW2gaY1/"
+        "instagram": "https://www.instagram.com/p/BTSUTW2gaY1/",
+        "ridewithgps": "https://ridewithgps.com/trips/14158332"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +391,8 @@
       "properties": {
         "name": "Copper",
         "date": "2017-04-25",
-        "instagram": "https://www.instagram.com/p/BTVKWGOAofn/"
+        "instagram": "https://www.instagram.com/p/BTVKWGOAofn/",
+        "ridewithgps": "https://ridewithgps.com/trips/14171255"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +407,8 @@
       "properties": {
         "name": "Untitled",
         "date": "2017-04-26",
-        "instagram": "https://www.instagram.com/p/BTW9w5vgYeO/"
+        "instagram": "https://www.instagram.com/p/BTW9w5vgYeO/",
+        "ridewithgps": "https://ridewithgps.com/trips/14188843"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +423,8 @@
       "properties": {
         "name": "Dragonfly Pavillion",
         "date": "2017-04-27",
-        "instagram": "https://www.instagram.com/p/BTZj4tfgnr4/"
+        "instagram": "https://www.instagram.com/p/BTZj4tfgnr4/",
+        "ridewithgps": "https://ridewithgps.com/trips/14208546"
       },
       "geometry": {
         "type": "Point",

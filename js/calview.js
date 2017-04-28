@@ -17,12 +17,22 @@ FOUR.calView = (function() {
       }
     },
 
+    getInstagramMarkup = function(feature) {
+      return '<a href="' + feature.properties.instagram + '">instagram</a>';
+    },
+
+    getRideWithGpsMarkup = function(feature) {
+      return '<a href="' + feature.properties.ridewithgps + '">Ride With GPS</a>';
+    },
+
     render = function() {
       var features = artData.getFeatures();
       padFirstWeek(FOUR.config.startDayOfWeek);
       for (var feature in features) {
         domContainer.append('<div class="feature">' +
-                            features[feature].properties.name + '</div>');
+                            features[feature].properties.name +
+                            getInstagramMarkup(features[feature]) +
+                            getRideWithGpsMarkup(features[feature]) + '</div>');
       }
 
     };
