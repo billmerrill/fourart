@@ -2,7 +2,8 @@ var FOUR = FOUR || {};
 
 FOUR.config = {
   "geoJsonUrl": "/data/ArtByBike.json",
-  "startDayOfWeek": "Saturday"
+  "startDayOfWeek": "Saturday",
+  "thumbnailDirectory": "/data/thumbnails/"
 };
 
 
