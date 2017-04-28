@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "date": "2017-04-01",
-        "name": "Waterworks"
+        "name": "Waterworks",
+        "instagram": "https://www.instagram.com/p/s_CediLxp9/"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "date": "2017-04-02",
-        "name": "Imbrication"
+        "name": "Imbrication",
+        "instagram": "https://www.instagram.com/p/BSaDKRWAxKL/"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "date": "2017-04-03",
-        "name": "Hot Cha Cha"
+        "name": "Hot Cha Cha",
+        "instagram": "https://www.instagram.com/p/BScicXrAmym/"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "date": "2017-04-04",
-        "name": "Black Sun"
+        "name": "Black Sun",
+        "instagram": "https://www.instagram.com/p/BSd_wdeAVVj/"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Equality",
-        "date": "2017-04-05"
+        "date": "2017-04-05",
+        "instagram": "https://www.instagram.com/p/BShuYs6gENE/"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "name": "Hat and Boots",
-        "date": "2017-04-06"
+        "date": "2017-04-06",
+        "instagram": "https://www.instagram.com/p/BSkG5qlgE6b/"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,23 @@
       "type": "Feature",
       "properties": {
         "name": "Home Finial",
-        "date": "2017-04-07"
+        "date": "2017-04-07",
+        "instagram": "https://www.instagram.com/p/BSmuUzYgVC0/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30703055858612,
+          47.62166964211776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leavenworth Shepherd",
+        "date": "2017-04-08",
+        "instagram": "https://www.instagram.com/p/BSpeDfPggw4/"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bird News",
-        "date": "2017-04-09"
+        "date": "2017-04-09",
+        "instagram": "https://www.instagram.com/p/BStcaoGAh3x/"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chief Seattle Fountain",
-        "date": "2017-04-10"
+        "date": "2017-04-10",
+        "instagram": "https://www.instagram.com/p/BStkC2-gw6H/"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "name": "South Park Vortex",
-        "date": "2017-04-11"
+        "date": "2017-04-11",
+        "instagram": "https://www.instagram.com/p/BSwv5yBgSp6/"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "name": "Red Bull Skatespace",
-        "date": "2017-04-12"
+        "date": "2017-04-12",
+        "instagram": "https://www.instagram.com/p/BSzStkhAxMW/"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "name": "Park Sculpture",
-        "date": "2017-04-13"
+        "date": "2017-04-13",
+        "instagram": "https://www.instagram.com/p/BS34mJdg9dE/"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "name": "The Philosophical Promenade",
-        "date": "2017-04-14"
+        "date": "2017-04-14",
+        "instagram": "https://www.instagram.com/p/BS40qvoAsHO/"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "name": "Quintet in D",
-        "date": "2017-04-15"
+        "date": "2017-04-15",
+        "instagram": "https://www.instagram.com/p/BS7yCehgKT3/"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "name": "Hammering Man",
-        "date": "2017-04-16"
+        "date": "2017-04-16",
+        "instagram": "https://www.instagram.com/p/BS9xeMtgIUo/"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "name": "Young Abe Lincoln",
-        "date": "2017-04-17"
+        "date": "2017-04-17",
+        "instagram": "https://www.instagram.com/p/BTAnS3kAQwH/"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "name": "Tree Bench",
-        "date": "2017-04-18"
+        "date": "2017-04-18",
+        "instagram": "https://www.instagram.com/p/BTCO4IWAgPd/"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "name": "Everything That Rises",
-        "date": "2017-04-19"
+        "date": "2017-04-19",
+        "instagram": "https://www.instagram.com/p/BTF7FvBgPdr/"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "name": "Flo Ware Park",
-        "date": "2017-04-20"
+        "date": "2017-04-20",
+        "instagram": "https://www.instagram.com/p/BTIESmwgGU0/"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "name": "A Sound Garden",
-        "date": "2017-04-21"
+        "date": "2017-04-21",
+        "instagram": "https://www.instagram.com/p/BTKiFGPg7iW/"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +320,8 @@
       "type": "Feature",
       "properties": {
         "name": "FlipBook",
-        "date": "2017-04-22"
+        "date": "2017-04-22",
+        "instagram": "https://www.instagram.com/p/BTNdSlVg-Yo/"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +335,8 @@
       "type": "Feature",
       "properties": {
         "name": "Cloud Veil",
-        "date": "2017-04-23"
+        "date": "2017-04-23",
+        "instagram": "https://www.instagram.com/p/BTQTMOxA_UD/"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +350,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sentinels",
-        "date": "2017-04-24"
+        "date": "2017-04-24",
+        "instagram": "https://www.instagram.com/p/BTSUTW2gaY1/"
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +364,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Copper",
+        "date": "2017-04-25",
+        "instagram": "https://www.instagram.com/p/BTVKWGOAofn/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32354760169983,
+          47.58214188724162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Untitled",
-        "date": "2017-04-26"
+        "date": "2017-04-26",
+        "instagram": "https://www.instagram.com/p/BTW9w5vgYeO/"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "name": "Dragonfly Pavillion",
-        "date": "2017-04-27"
+        "date": "2017-04-27",
+        "instagram": "https://www.instagram.com/p/BTZj4tfgnr4/"
       },
       "geometry": {
         "type": "Point",
