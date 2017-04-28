@@ -248,7 +248,6 @@
         "date": "2017-04-16",
         "instagram": "https://www.instagram.com/p/BS9xeMtgIUo/",
         "ridewithgps": "https://ridewithgps.com/trips/13995550"
-
       },
       "geometry": {
         "type": "Point",
@@ -431,6 +430,22 @@
         "coordinates": [
           -122.36777722835541,
           47.56661995005548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blanche",
+        "date": "2017-04-28",
+        "instagram": "https://www.instagram.com/p/BTcJqsVA8OB/",
+        "ridewithgps": "https://ridewithgps.com/trips/14228967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3374092578888,
+          47.627917269908
         ]
       }
     }
